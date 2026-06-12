@@ -2,6 +2,6 @@ id=roottone
 name=RootTone
 version=v1.0.0
 versionCode=1
-author=roottone-contributors
+author=taron-d
 description=Persists custom system sounds across reboots. Managed by the RootTone app.
 updateJson=https://raw.githubusercontent.com/taron-d/RootTone/main/magisk-module/update.json
